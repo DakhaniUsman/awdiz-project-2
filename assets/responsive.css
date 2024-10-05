@@ -4,6 +4,7 @@
     }
 
     .top-navbar-search .search{
+        justify-content: left;
         background-color: transparent;
     }
 
