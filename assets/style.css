@@ -444,7 +444,8 @@
   height: 100%;
   display: flex;
   flex-direction: column;
-  padding: 1em 0px;
+  padding: 1em;
+  border-radius: 5px;
 }
 
 .list-item {
